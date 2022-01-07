@@ -13,3 +13,6 @@
 - [Part I: Understand population change](#1)
 - [Part II: Understand GDP change](#2)
 - [Part III: Understand life expectancy and income](#3)
+
+
+Click [here](https://dfm.io/nbview/?url=https%3A%2F%2Fgithub.com%2Fgiangthukieu%2Funderstand-the-world%2Fblob%2Fmain%2Fworld-data-analysis.ipynb#0) to view the project
